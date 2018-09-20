@@ -42,13 +42,7 @@ public class Fraction {
     }
 
     public double decimal() {
-        if (this.denominator==0){
-            throw new ArithmeticException("ERROR Denominator different of cero");
-        }else
-        {
             return (double) numerator / denominator;
-        }
-
     }
 
 
