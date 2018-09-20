@@ -11,6 +11,6 @@
 
 ### Programadores
 > [XinYu. Li](https://github.com/L-Xinyu)  
-> [Alexandra Cabrera](https://github.com/AlexandraCabreraLituma)  
-> [Jesús Zea](https://github.com/jzea)
+> [Alejandro del Puerto](https://github.com/alexdelpuerto)  
+> [Joel Liriano](https://github.com/jliriano)
 
