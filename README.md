@@ -4,7 +4,7 @@
 > Asignatura: *Ingeniería Web: Visión General*
 ### Estado del código
 
-[![Build Status](https://travis-ci.org/AlexandraCabreraLituma/Alexandra.Cabrera.SVC.miw.upm.es?branch=develop)](https://travis-ci.org/AlexandraCabreraLituma/Alexandra.Cabrera.SVC.miw.upm.es)
+[![Build Status](https://travis-ci.org/AlexandraCabreraLituma/Alexandra.Cabrera.SVC.miw.upm.es.svg?branch=develop)](https://travis-ci.org/AlexandraCabreraLituma/Alexandra.Cabrera.SVC.miw.upm.es)
 
 ![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=es.upm.miw%3AIWVG.SwC.AlexandraCabrera&metric=alert_status)
 
