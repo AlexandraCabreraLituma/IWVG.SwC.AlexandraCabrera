@@ -53,4 +53,12 @@ class PointTest {
         assertEquals(2, point.getY());
     }
 
+    @Test
+    void testUpdatePoint(){
+        point = new Point(2,2);
+        point.updatePoint(3,3);
+        assertEquals(3,point.getX());
+        assertEquals(3,point.getY());
+    }
+
 }
