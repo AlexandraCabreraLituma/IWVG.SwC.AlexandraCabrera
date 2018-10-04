@@ -42,7 +42,7 @@ public class Fraction {
     }
 
     public double decimal() {
-            return (double) numerator / denominator;
+        return (double) numerator / denominator;
     }
 
 
@@ -55,7 +55,11 @@ public class Fraction {
     }
 
     public boolean isPropia() {
-        return (this.numerator<this.denominator);
+        return (this.numerator < this.denominator);
+    }
+
+    public Fraction invertir() {
+        return new Fraction(this.denominator, this.numerator);
     }
 
 }
