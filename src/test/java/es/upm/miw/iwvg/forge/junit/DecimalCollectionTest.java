@@ -51,4 +51,8 @@ class DecimalCollectionTest {
         assertThrows(ArithmeticException.class, () -> new DecimalCollection().higher());
     }
 
+    @Test
+    void testCount() {
+        assertEquals(4, this.decimalCollection.count());
+    }
 }

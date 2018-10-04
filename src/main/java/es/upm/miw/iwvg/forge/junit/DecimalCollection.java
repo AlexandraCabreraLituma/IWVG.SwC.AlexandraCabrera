@@ -43,4 +43,8 @@ public class DecimalCollection {
         return higher;
     }
 
+    public int count() {
+        return this.collection.size();
+    }
+
 }
