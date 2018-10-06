@@ -26,4 +26,8 @@ class UserTest {
         assertEquals("A.", user.initials());
     }
 
+    @Test
+    void testUpperName() {
+        assertEquals("ALEXANDRA", user.upperName());
+    }
 }
