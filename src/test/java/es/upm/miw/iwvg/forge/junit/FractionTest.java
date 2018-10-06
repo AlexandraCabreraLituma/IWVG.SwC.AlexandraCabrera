@@ -30,6 +30,12 @@ class FractionTest {
     }
 
     @Test
+    void testIsImpropia() {
+        fraction = new Fraction(4,3);
+        assertEquals(true, fraction.isImpropia());
+    }
+
+    @Test
     void testInvertir() {
         assertEquals(2, fraction.invertir().getNumerator());
         assertEquals(4, fraction.invertir().getDenominator());

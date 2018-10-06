@@ -58,6 +58,10 @@ public class Fraction {
         return (this.numerator < this.denominator);
     }
 
+    public boolean isImpropia() {
+        return !isPropia();
+    }
+
     public Fraction invertir() {
         return new Fraction(this.denominator, this.numerator);
     }
